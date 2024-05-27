@@ -5,7 +5,7 @@ import com.orange.core.entity.UserInfoDO;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author chensy
+ * @author orange
  * @date 2024/3/30
  */
 @Repository

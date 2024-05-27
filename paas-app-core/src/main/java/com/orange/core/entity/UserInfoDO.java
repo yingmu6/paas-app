@@ -1,7 +1,7 @@
 package com.orange.core.entity;
 
 /**
- * @author chensy
+ * @author orange
  * @date 2024/3/25
  */
 

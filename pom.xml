@@ -177,6 +177,19 @@
                 <artifactId>curator-recipes</artifactId>
                 <version>${curator-version}</version>
             </dependency>
+
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>1.18.8</version>
+            </dependency>
+
+            <dependency>
+                <artifactId>basic-monitor</artifactId>
+                <groupId>com.orange</groupId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 

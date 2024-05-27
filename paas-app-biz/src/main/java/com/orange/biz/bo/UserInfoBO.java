@@ -1,7 +1,7 @@
 package com.orange.biz.bo;
 
 /**
- * @author chensy
+ * @author orange
  * @date 2024/3/30
  */
 public class UserInfoBO {

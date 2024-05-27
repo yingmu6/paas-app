@@ -22,6 +22,22 @@
             <groupId>com.orange</groupId>
             <artifactId>paas-app-core</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+        </dependency>
+
+        <dependency>
+            <artifactId>basic-monitor</artifactId>
+            <groupId>com.orange</groupId>
+        </dependency>
+
     </dependencies>
 
 </project>
