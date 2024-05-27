@@ -14,7 +14,7 @@
 
     <dubbo:protocol  port="20883" status="server"/>
 
-    <dubbo:service interface="com.orange.client.IUserInfoClient" ref="userInfoClient"/>
+    <dubbo:service interface="com.orange.client.service.user.IUserInfoClient" ref="userInfoClient"/>
 
     <bean id="userInfoClient" class="com.orange.service.UserInfoClientImpl"/>
 </beans>

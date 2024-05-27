@@ -1,4 +1,4 @@
-package com.orange.biz;
+package com.orange.biz.service.user;
 
 import com.orange.biz.bo.UserInfoBO;
 

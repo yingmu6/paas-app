@@ -1,4 +1,4 @@
-package com.orange.client;
+package com.orange.client.service.user;
 
 /**
  * @author chensy

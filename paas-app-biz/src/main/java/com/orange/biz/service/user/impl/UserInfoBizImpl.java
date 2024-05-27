@@ -1,6 +1,6 @@
-package com.orange.biz.impl;
+package com.orange.biz.service.user.impl;
 
-import com.orange.biz.IUserInfoBiz;
+import com.orange.biz.service.user.IUserInfoBiz;
 import com.orange.biz.bo.UserInfoBO;
 import com.orange.core.IUserInfoDAO;
 import com.orange.core.entity.UserInfoDO;
